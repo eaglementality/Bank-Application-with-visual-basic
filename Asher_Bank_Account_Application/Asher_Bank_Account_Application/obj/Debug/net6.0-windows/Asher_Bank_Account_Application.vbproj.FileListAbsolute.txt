@@ -1,0 +1,17 @@
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.vbproj.AssemblyReference.cache
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.AccountTest.resources
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.vbproj.GenerateResource.cache
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.AssemblyInfoInputs.cache
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.AssemblyInfo.vb
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.vbproj.CoreCompileInputs.cache
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\bin\Debug\net6.0-windows\Asher_Bank_Account_Application.exe
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\bin\Debug\net6.0-windows\Asher_Bank_Account_Application.deps.json
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\bin\Debug\net6.0-windows\Asher_Bank_Account_Application.runtimeconfig.json
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\bin\Debug\net6.0-windows\Asher_Bank_Account_Application.dll
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\bin\Debug\net6.0-windows\Asher_Bank_Account_Application.pdb
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.dll
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\refint\Asher_Bank_Account_Application.dll
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.pdb
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\Asher_Bank_Account_Application.genruntimeconfig.cache
+C:\Users\dp\source\repos\Asher_Bank_Account_Application\Asher_Bank_Account_Application\obj\Debug\net6.0-windows\ref\Asher_Bank_Account_Application.dll
